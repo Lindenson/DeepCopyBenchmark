@@ -1,0 +1,15 @@
+build
+!/**/src/**/build
+/**/src/**/generated
+.gradle
+.idea/
+out
+*.iml
+.DS_Store
+
+# eclipse
+.classpath
+.project
+.settings/
+target
+bin/
